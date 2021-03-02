@@ -4,7 +4,7 @@ if (myMonth < 10) {
   getMonth = "0" + String(myMonth);
 } else {
   getMonth = String(myMonth);
-}
+}vdvsefe
 var getDate = String(myDate.getDate());
 if (getDate < 10) {
   getDate = "0" + String(getDate);
