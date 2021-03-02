@@ -15,6 +15,7 @@ var getMonthDate = "S" + getMonth + getDate;
 
 var geturl = "/history/json/" + getMonth + ".json";
 $(function () {
+  alter("++++++++++++++++++++++++++++++++++++++++++++++++++++==")
   $.ajax({
     //请求方式
     type: "GET",
